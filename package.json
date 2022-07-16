@@ -32,6 +32,7 @@
     "react-query": "^3.34.19",
     "react-spring": "^9.4.4",
     "react-three-fiber": "^6.0.13",
+    "styled-components": "^5.3.5",
     "swiper": "^8.1.0",
     "three": "^0.139.2"
   },

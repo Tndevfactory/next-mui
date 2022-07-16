@@ -15,7 +15,7 @@ export default function About() {
   return (
     <Container maxWidth="sm">
       <CssBaseline />
-      <ActiveLink children="home" href="/" />
+      {/* <ActiveLink children="home" href="/" /> */}
       <ButtonGroup
         variant="contained"
         aria-label="outlined primary button group"

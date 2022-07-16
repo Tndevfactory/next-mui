@@ -67,8 +67,8 @@ export default function Index() {
         maxWidth="xl"
         sx={{ marginTop: "1rem", backgroundColor: "plum" }}
       >
-        <ActiveLink children="home active link" href="/" />
-        <ActiveLink children="about active link" href="/about" />
+        {/* <ActiveLink children="home active link" href="/" /> */}
+        {/* <ActiveLink children="about active link" href="/about" /> */}
         <MuiLink color="inherit" href="https://mui.com/">
           mui.com MuiLink
         </MuiLink>{" "}
